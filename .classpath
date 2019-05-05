@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="jars/javax.jar"/>
+	<classpathentry kind="lib" path="jars/javax.mail.jar"/>
+	<classpathentry kind="lib" path="jars/jSerialComm-2.0.2.jar"/>
+	<classpathentry kind="lib" path="jars/json-simple-1.1.1.jar"/>
+	<classpathentry kind="lib" path="jars/rrd4j-3.2-20171111.105434-21-converter.jar"/>
+	<classpathentry kind="lib" path="jars/rrd4j-3.2-20171111.105434-21-demo.jar"/>
+	<classpathentry kind="lib" path="jars/rrd4j-3.2-20171111.105434-21-inspector.jar"/>
+	<classpathentry kind="lib" path="jars/rrd4j-3.2-20171111.105434-21-javadoc.jar"/>
+	<classpathentry kind="lib" path="jars/rrd4j-3.2-20171111.105434-21-sources.jar"/>
+	<classpathentry kind="lib" path="jars/rrd4j-3.2-20171111.105434-21.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
