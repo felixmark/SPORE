@@ -3,7 +3,7 @@ This repository features a Java program for reading and processing plant sensor 
 
 
 
-![](resources/spore_logo.jpg)
+![](resources/Logo.jpg)
 
 
 
