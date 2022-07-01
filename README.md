@@ -15,14 +15,14 @@ In the course of the bachelor thesis an XBee based data receiving and processing
 
 ## Communication and storage
 
-![](resources/Kommunikationsmodell.png)
+![](resources/ProjectModel.png)
 
 
 
 ## Webinterface for visualizing the data
 
-![](resources/Spore Menu.png)
+![](resources/Menu.png)
 
-![](resources/Spore Report.png)
+![](resources/Report.png)
 
-![](resources/Spore Edit Node.png)
+![](resources/EditNode.png)
